@@ -1,4 +1,6 @@
 # Computer-Vision-Problems
+In this repository I have solved two problems of computer vision. First Implementation is building a CNN in which the input is a noisy number and the output is a denoised number. Second implementations is sequencing the characters read from number plates done using obect detection.
+
 * Please use the jupyter notebook to run the above files in iPython environment.
 * or directly run the `Problem_x.py` file in the python shell.
 
